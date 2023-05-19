@@ -10,7 +10,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-.nav-item{
+.nav-item {
     border: 2px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-right: 9px;
@@ -19,6 +19,7 @@ body{
 .nav-item>a:hover{
     background-color: teal;
     color: black !important;
+    
 }
 
 .container{

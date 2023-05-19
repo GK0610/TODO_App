@@ -4,14 +4,17 @@
 }
 
 .nav-item{
-    
+    border: 2px solid white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-right: 9px;
     
+}
+#logout1{
+    color: black;
 }
 .nav-item>a:hover{
     background-color: teal;
     color: black !important;
+    
 }
 
 #wel1{

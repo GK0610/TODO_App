@@ -17,12 +17,12 @@ todoListMenu.addEventListener('click', () => {
         // Create a new table row
         const row = document.createElement('tr');
 
-        // Set the ID column
+        // Set the Sl No column
         const idCell = document.createElement('td');
         idCell.textContent = todo.id;
         row.appendChild(idCell);
 
-        // Set the title column
+        // Set the task column
         const titleCell = document.createElement('td');
         titleCell.textContent = todo.title;
         row.appendChild(titleCell);
