@@ -32,15 +32,30 @@ body{
     margin-top: 75px;
 }
 
-/* #todroptable
+#todroptable
 {
     color: white;
     text-align: center;
     margin-top: 20px;
 }
+#taskdown
+{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
 #todo-list-table
 {
-    position: relative;left: 25em;
+    
+    border: 1px solid black;
+    width: 94.95em;
+   
+}
+
+#todolist_tablebody1{
+
     border: 1px solid black;
 }
 
@@ -63,7 +78,7 @@ tbody td {
     align-items: center;
     
     border: 1px solid black;
-} */
+}
 
 ul li
 {
