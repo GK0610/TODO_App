@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-size: cover;
+    background-position: fixed;    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-item{
+    border: 2px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 9px;
+    
+}
+.nav-item>a:hover{
+    background-color: teal;
+    color: black !important;
+}
+
+.container{
+    margin-top: 180px;
+    text-align: center;
+}
+
+.formlog{
+    margin-bottom: 50px;
+    position: relative;left: 300px;
+    background-color: rgba(168, 175, 128, 0.226);
+    border: 1px solid black;
+    width: 85%;
+}
+
+#logo_b{
+    width: 100%;
+}
+
+#sticky-footer{
+    margin-top: 75px;
+}

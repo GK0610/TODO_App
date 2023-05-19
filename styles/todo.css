@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 9px;
+    
+}
+.nav-item>a:hover{
+    background-color: teal;
+    color: black !important;
+}
+
+#wel1{
+    margin-top: 25px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+body{
+    background-size: cover;
+    background-position: fixed;    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sticky-footer{
+    margin-top: 75px;
+}
+
+/* #todroptable
+{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+#todo-list-table
+{
+    position: relative;left: 25em;
+    border: 1px solid black;
+}
+
+thead{
+    background-color: lightslategray;
+    text-align: center;
+    border: 1px solid black;
+	align-items: center;
+}
+thead th {
+    background-color: lightslategray;
+    border: 1px solid black;
+}
+
+
+
+tbody td {
+    background-color: lightslategray;
+    padding: 10px;
+    align-items: center;
+    
+    border: 1px solid black;
+} */
+
+ul li
+{
+    background-color: lightslategray;
+}
+
+ul 
+{
+    background-color: lightslategray;
+}
